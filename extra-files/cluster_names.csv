@@ -1,0 +1,22 @@
+,Groups,Major_group
+1,body_wall,body_wall
+2,body_wall basal_lamina,body_wall
+3,cuticle,cuticle
+4,body_wall,body_wall
+5,somatic_gonad_,somatic_gonad
+6,excretory_duct eggshell cuticle excretory_pore,excretory_duct
+7,intestine pharyngeal_nerve pharynx cuticle,intestine
+8,body_wall,body_wall
+9,cuticle excretory_duct eggshell pharyngeal_lumen,cuticle
+10,somatic_gonad_ gonad,somatic_gonad
+11,cuticle excretory_duct eggshell,cuticle
+12,excretory_canal,excretory_canal
+13,somatic_gonad_ pharyngeal_lumen,somatic_gonad
+14,body_wall,body_wall
+15,intestine hook pharyngeal_lumen pharyngeal_nerve pharynx,intestine
+16,intestine pharyngeal_nerve intestinal_lumen pharynx,intestine
+17,basal_lamina somatic_gonad_ body_wall ,basal_lamina
+18,body_wall,body_wall
+19,somatic_gonad_  gonad basal_lamina,somatic_gonad
+20,pharynx,pharynx
+21,basal_lamina,basal_lamina
